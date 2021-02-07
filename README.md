@@ -26,7 +26,7 @@ We will use Microsoft Excel to answer the following questions:
 ## Data Answers
 
 ### How does the average household income differ in Baltimore and Denver?
-When looking at different factors surrounding employement, we can begin by comparing the average household income in the two cities. 
+When looking at different factors surrounding employement, we can begin by comparing the average household income in the two cities. [The pivot table and graphs](https://github.com/cshah13/workforce-opportunities-baltimore-denver/blob/main/Household%20Income%20Analysis.xlsx) used for this comparison show that the average household income in Denver is higher than the average income in Baltimore. The median household income in Baltimore is $30,586.5 compared to $37,660.75 in Denver. Although the differences do not seem vast, the range of income in Denver is only $41,723 compared to a much higher range of $54,646 in Baltimore. We can begin to see that household income is lower in Baltimore.
 
 ### How do the employement rates rates differ in Baltimore and Denver?
 ### What does the availability of jobs look like in Baltimore and Denver?
