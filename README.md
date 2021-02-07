@@ -1,5 +1,5 @@
 # Comparing Workforce Opportunities in Baltimore, Maryland and Denver, Colorado with Opportunity Atlas Data
-Analysis of workforce opportunities in Baltimore, Maryland and Denver, Colorado
+Analysis of workforce opportunities in Baltimore, Maryland and Denver, Colorado to understand the vast lifestyle differences in the two cities
 
 ## Background Information
 This project aims to analyze workforce opportunities in Baltimore and Denver that lead to the difference in lifestyles. I am interested in identifying the root causes of poverty to identify ways to increase opportunities for success in communities. I chose these specific cities because Denver is my hometown and Baltimore is my collegetown.
