@@ -32,7 +32,8 @@ When looking at different factors surrounding employement, we can begin by compa
 
 
 ### How do the employement rates rates differ in Baltimore and Denver?
-When analyzing the employement rates in the two cities, the numbers are quite similar. An average of 76% of the population in Denver is employed compared to 73% in Baltimore. This data shows that the number of people who are employed is not a large contributing factor to livelihood differences. [A data analysis with a pivot table, graph, and formula](https://github.com/cshah13/workforce-opportunities-baltimore-denver/blob/main/Employement%20Analysis%20.xlsx) was used for this question.
+When analyzing the employement rates in the two cities, the numbers are quite similar. An average of 76% of the population in Denver is employed compared to 73% in Baltimore. This data shows that the number of people who are employed is not a large contributing factor to livelihood differences. [A data analysis with a pivot table, graph, and formula](https://github.com/cshah13/workforce-opportunities-baltimore-denver/blob/main/Employement%20Analysis%20.xlsx) can be viewed for further information.
+
 ### What does the availability of jobs look like in Baltimore and Denver?
 ![alttext](https://github.com/cshah13/workforce-opportunities-baltimore-denver/blob/main/Denver%20Job%20Density.png)
 ![alttext](https://github.com/cshah13/workforce-opportunities-baltimore-denver/blob/main/Baltimore%20Job%20Density.png)
