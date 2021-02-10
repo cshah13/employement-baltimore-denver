@@ -10,7 +10,7 @@ When analyzing [a news article from the Baltimore Sun about Baltimore's unemploy
 What differences in workforce opportunities could be leading to livelihood differences in Baltimore and Denver?
 
 ## Open Data 
-This analysis uses data from [The Opportunity Atlas](https://opportunityatlas.org) which provides social mobility data from 20 million anonymous individuals. The following data sets were analyzed for both Denver and Baltimore. All original data sets can be found on the Excel sheet [here](https://github.com/cshah13/employment-baltimore-denver/blob/main/Original%20Data%20Baltimore%20Denver.xlsx).
+This analysis uses data from [The Opportunity Atlas](https://opportunityatlas.org) which provides social mobility data from 20 million anonymous individuals. The following data sets were analyzed for both Denver and Baltimore. All original data sets can be found on the Excel sheet [here](https://github.com/cshah13/employement-baltimore-denver/blob/main/Original%20Data%20Baltimore%20Denver.xlsx).
 - Household Income (average household income from 2014-2015)
 - Employment Rate (fraction who have positive earnings in 2015)
 - Density of Jobs in 2013 (number of jobs per square mile in 2013)
