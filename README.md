@@ -23,6 +23,9 @@ We will use Microsoft Excel to answer the following questions:
 1. What does the number of jobs available per square mile look like in Baltimore and Denver?
 1. What percentage of the people in each city earned a college degree?
 
+### PYTHON WAS USED TO RE-ANSWER THE FOLLOWING QUESTIONS
+1. What does the number of jobs available per square mile look like in Baltimore and Denver?
+
 ## Data Answers
 
 ### How does the average household income differ in Baltimore and Denver?
