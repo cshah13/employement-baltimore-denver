@@ -74,3 +74,6 @@ Below are the steps that were taken to complete this data analysis:
 1. Downloaded Maryland/Colorado Household Income data, created a pivot table for each state, changed the format from sum to average, filtered the data to only view Baltimore/Denver, created a line graph for each city, used the MEDIAN formula to find median household income rates in each city, used the (=MAX(data)-MIN(data) formula to identify the range for each city
 1. Downloaded Maryland/Colorado Job Density data, created a pivot table for each state, changed the format from sum to average, filtered the data to only view Baltimore/Denver, created a line graph for each city, used the MEDIAN formula to find median employment rates in each city since the graphs were skewed
 1. Downloaded Maryland/Colorado College Graduation data, reorganized the neccesary information into one data set, created a pivot table, altered the design to be visually appealing
+
+### PYTHON STEPS
+The steps taken to conduct the Python analysis can be seen in the Google Collab links that correspond to each business question.
