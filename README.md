@@ -76,4 +76,4 @@ Below are the steps that were taken to complete this data analysis:
 1. Downloaded Maryland/Colorado College Graduation data, reorganized the neccesary information into one data set, created a pivot table, altered the design to be visually appealing
 
 ### PYTHON STEPS
-The steps taken to conduct the Python analysis can be seen in the Google Collab links that correspond to each business question.
+The steps taken to conduct the Python analysis can be seen in the Google Collab link that corresponds to the specific data question.
