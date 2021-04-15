@@ -24,8 +24,8 @@ We will use Microsoft Excel to answer the following questions:
 1. What percentage of the people in each city earned a college degree?
 
 ### PYTHON WAS USED TO RE-ANSWER THE FOLLOWING QUESTIONS
-1. What does the number of jobs available per square mile look like in Baltimore and Denver? View Google Colaboratory Here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cshah13/workforce-opportunities-baltimore-denver/blob/main/Shah_Baltimore_Denver_Job_Analysis.ipynb)
-2. What percentage of the people in each city earned a college degree? View Google Colaboratory Here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cshah13/workforce-opportunities-baltimore-denver/blob/main/Shah_Baltimore_Denver_College_Analysis.ipynb)
+1. What does the number of jobs available per square mile look like in Baltimore and Denver? [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cshah13/workforce-opportunities-baltimore-denver/blob/main/Shah_Baltimore_Denver_Job_Analysis.ipynb)
+2. What percentage of the people in each city earned a college degree? [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cshah13/workforce-opportunities-baltimore-denver/blob/main/Shah_Baltimore_Denver_College_Analysis.ipynb)
 
 ## Data Answers
 
