@@ -1,6 +1,19 @@
 # Comparing Workforce Opportunities in Baltimore, Maryland and Denver, Colorado with Opportunity Atlas Data
 Analysis of workforce opportunities in Baltimore, Maryland and Denver, Colorado to understand the vast lifestyle differences in the two cities
 
+## Table of Contents
+1. [Background Information](https://github.com/cshah13/workforce-opportunities-baltimore-denver#background-information)
+2. [Business Question](https://github.com/cshah13/workforce-opportunities-baltimore-denver#business-question)
+3. [Open Data](https://github.com/cshah13/workforce-opportunities-baltimore-denver#open-data)
+4. [Data Analysis Questions](https://github.com/cshah13/workforce-opportunities-baltimore-denver#data-analysis-questions)
+5. [Questions Re-Answered with Python](https://github.com/cshah13/workforce-opportunities-baltimore-denver#python-was-used-to-re-answer-the-following-questions)
+6. [Data Answers](https://github.com/cshah13/workforce-opportunities-baltimore-denver#data-answers)
+7. [Python Answer 1](https://github.com/cshah13/workforce-opportunities-baltimore-denver#python-analysis)
+8. [Python Answer 2](https://github.com/cshah13/workforce-opportunities-baltimore-denver#python-analysis-1)
+9. [Business Answer](https://github.com/cshah13/workforce-opportunities-baltimore-denver#business-answer)
+10. [Python Business Answer](https://github.com/cshah13/workforce-opportunities-baltimore-denver#python-additions)
+11.[Analysis Instructions](https://github.com/cshah13/workforce-opportunities-baltimore-denver#step-by-step-instructions)
+
 ## Background Information
 This project aims to analyze workforce opportunities in Baltimore and Denver to better understand the difference in lifestyles. I am interested in identifying the root causes of poverty to identify ways to increase opportunities for success in communities. I chose these specific cities because Denver is my hometown and Baltimore is my collegetown.
 
