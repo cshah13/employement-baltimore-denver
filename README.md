@@ -12,7 +12,7 @@ Analysis of workforce opportunities in Baltimore, Maryland and Denver, Colorado 
 8. [Python Answer 2](https://github.com/cshah13/workforce-opportunities-baltimore-denver#python-analysis-1)
 9. [Business Answer](https://github.com/cshah13/workforce-opportunities-baltimore-denver#business-answer)
 10. [Python Business Answer](https://github.com/cshah13/workforce-opportunities-baltimore-denver#python-additions)
-11.[Analysis Instructions](https://github.com/cshah13/workforce-opportunities-baltimore-denver#step-by-step-instructions)
+11. [Analysis Instructions](https://github.com/cshah13/workforce-opportunities-baltimore-denver#step-by-step-instructions)
 
 ## Background Information
 This project aims to analyze workforce opportunities in Baltimore and Denver to better understand the difference in lifestyles. I am interested in identifying the root causes of poverty to identify ways to increase opportunities for success in communities. I chose these specific cities because Denver is my hometown and Baltimore is my collegetown.
